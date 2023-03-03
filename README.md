@@ -4,4 +4,4 @@ Python based tool used to convert images of Canon Raw 2nd Edition Format to JPEG
 
 I have used tkinter for GUI
 
-I created it for my friend, now thought of publishing it since it couldbe used by others too
+I created it for my friend, now thought of publishing it since it could be used by others too
